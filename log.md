@@ -1,23 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January , 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learn about:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+-what is a programming lenguage
+-programming paradigms
+-types of lenguajes
+-how computer understan code
+-IDEs
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I was thinking about just start programming, but at the same time was thinking that the best way to learn something is strat by the basics. So that´s why I learned some basics things and that´s what i´m gonna do for the rest of the week.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+---
+## Ignorar
 
 ### Day 1: June 27, Monday
 
