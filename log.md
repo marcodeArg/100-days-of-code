@@ -29,7 +29,7 @@
   - Languages and frameworks
 
 
-**Thoughts:** Today, I looked for information about what area I would like to work on in the future.
+**Thoughts:** Today, I looked for information about what area I would like to work on in the future
 
 ---
 
